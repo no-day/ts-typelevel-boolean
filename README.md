@@ -4,14 +4,12 @@
 
 ## Install
 
-Uses `fp-ts` as a peer dependency.
-
 ```bash
-yarn add fp-ts ts-typelevel-boolean
+yarn add ts-typelevel-boolean
 ```
 
 or
 
 ```bash
-npm install fp-ts ts-typelevel-boolean
+npm install ts-typelevel-boolean
 ```
