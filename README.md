@@ -1,16 +1,11 @@
 # ts-typelevel-boolean
 
-[![Test](http:&#x2F;&#x2F;&#x2F;actions&#x2F;workflows&#x2F;build.yml&#x2F;badge.svg)](http:&#x2F;&#x2F;&#x2F;actions&#x2F;workflows&#x2F;build.yml)
-
-[API Docs](http://)
-
----
+## [API Docs](https://no-day.github.io/ts-typelevel-boolean/modules/index.ts.html)
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC) -->
 
+- [API Docs](#api-docs)
 - [Install](#install)
-- [Example](#example)
-
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Install
@@ -25,12 +20,4 @@ or
 
 ```bash
 npm install fp-ts ts-typelevel-boolean
-```
-
-## Example
-
-```ts
-import * as Lib from 'ts-typelevel-boolean'
-
-// write an example...
 ```
