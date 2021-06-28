@@ -1,6 +1,6 @@
 # ts-typelevel-boolean
 
-## [API Docs](https://no-day.github.io/ts-typelevel-boolean/modules/index.ts.html)
+[API Docs](https://no-day.github.io/ts-typelevel-boolean/modules/index.ts.html)
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC) -->
 
